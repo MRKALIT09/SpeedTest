@@ -1,6 +1,10 @@
 # SpeedTest
 Speed Test Upload and Download
 
+<p align="center">
+  <img src="https://github.com/kelas-kode/kelas-kode/blob/main/pc.gif" height="200" width="450"/>
+</p>
+
 
 <p align="left">
 
