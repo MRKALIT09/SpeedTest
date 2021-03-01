@@ -43,7 +43,7 @@ download=speedTest.download() # test kecepatan upload
 
 ## Screenshots
 + cara menggunakan
-![template_s](https://github.com/kelas-kode/SpeedTest/blob/main/Screenshot_20210302-040753495.jpg) 
+![template_s](https://github.com/kelas-kode/SpeedTest/blob/main/Screenshot_20210302-040753495~01.jpg) 
 <p align="center">
 ©Copyright Kelas Kode
 </p>
